@@ -15,4 +15,4 @@ Pretendo ainda fazer:
 - Análise de sentimento de frases da Bíblia;
 
 
-[![wordcloud](https://raw.githubusercontent.com/jonathanAmancioSales/Data-Analysis_Bible/blob/main/Images/Bible_wordcloud.png)](https://github.com/jonathanAmancioSales/Data-Analysis_Bible/blob/main/Images/)
+[![wordcloud](https://raw.githubusercontent.com/jonathanAmancioSales/Data-Analysis_Bible/main/Images/Bible_wordcloud.png)](https://github.com/jonathanAmancioSales/Data-Analysis_Bible/blob/main/Images/)
