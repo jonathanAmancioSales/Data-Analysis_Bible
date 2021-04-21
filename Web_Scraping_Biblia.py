@@ -95,11 +95,10 @@ for id_l in range(len(Livros)):
 			Lista.append( [Testamento,Livros_name[id_l],Livros[id_l],c+1,v+1,vers] )
 
 
-df = pd.DataFrame(Lista,
-				  columns=['testamento','livro_name','livro','n_cap','n_vers','vers'])
+df = pd.DataFrame(Lista,columns=['testamento','livro_name','livro','n_cap','n_vers','vers'])
 
-df = df.astype(dtype= { 'testamento':'object','livro_name':'object','livro':'object',
-						'n_cap':'int64','n_vers':'int64','vers':'object'})
+df = df.astype(dtype={ 'testamento':'object','livro_name':'object','livro':'object',
+		'n_cap':'int64','n_vers':'int64','vers':'object'})
 
 df.to_csv('Vers_Biblia_'+version+'.csv')
 #############################
