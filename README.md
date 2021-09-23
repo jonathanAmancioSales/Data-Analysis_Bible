@@ -7,10 +7,10 @@ Destaco os seguintes pontos desse projeto:
 - Análise dos número de versículos, número de palavras, número de letras de toda a Bíblia e de cada livro que a compõe (agrupados por testamento ou categoria);
 - Análise comparativa entre os atributos (capítulos, versículos, palavras e letras)
 - Análise das frequências das palavras de toda a Bíblia e de cada livro, com elaboração de [wordcloud](https://github.com/jonathanAmancioSales/Data-Analysis_Bible/blob/main/Images/);
-- Comparação entre diferentes versões da Bíblia;
 - Consultas de palavras ou expressões;
 
 Pretendo ainda fazer:
+- Comparação entre diferentes versões da Bíblia;
 - Agrupamento (clusterização) de textos;
 - Análise de sentimento de frases da Bíblia;
 
